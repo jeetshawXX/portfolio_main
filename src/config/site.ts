@@ -29,7 +29,7 @@ export const MAIN_NAV: NavItem[] = [
 export const GITHUB_USERNAME = "jeetshawxx";
 export const SOURCE_CODE_GITHUB_REPO = "jeetshawxx/My-Portfolio";
 export const SOURCE_CODE_GITHUB_URL =
-  "https://github.com/jeetshawxx/My-Portfolio";
+  "https://github.com/jeetshawXX/portfolio_main";
 
 export const UTM_PARAMS = {
   utm_source: "https://jeetshawxx.me",
