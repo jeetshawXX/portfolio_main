@@ -12,25 +12,15 @@ export const SOCIAL_LINKS: SocialLink[] = [
     title: "GitHub",
     description: "@jeetshawXX",
     href: "https://github.com/jeetshawXX",
+    
   },
-  {
-    icon: "https://assets.chanhdai.com/images/link-icons/x.webp?t=1759581475",
-    title: "X (Twitter)",
-    description: "@jeet",
-    href: "https://x.com/jeetshaw",
-  },
-  {
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg",
-    title: "Stack Overflow",
-    description: "@jeetshaw",
-    href: "https://stackoverflow.com/users/22188825/jeet-shaw",
-    padding: true,
-  },
+   
   {
     icon: "/icons/gateoverflow.png",
     title: "GateOverflow",
     description: "@js__",
     href: "https://gateoverflow.in/user/js__",
+    
   },
   {
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg",
